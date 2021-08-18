@@ -1,0 +1,13 @@
+ul{
+  border-style: solid;
+  border-color: black;
+  margin: 100px;
+}
+
+b{
+  color: green;
+}
+
+.stock{
+  color: blue;
+}
